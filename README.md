@@ -1,6 +1,6 @@
 # About
 
-SQL Converter will help user turn a text into a sql statement which is with variable.
+SQL Converter will help java user turn a text into a sql statement which is with variable.
 
 There are 4 SQL statements and 2 Variable types can be chosen on SQL Converter. 
 
