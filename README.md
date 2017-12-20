@@ -20,7 +20,7 @@ JDK Java 1.7
 ### v1.01 Beta
 
 ### v1.02 Beta
-add index annotation
+add index annotation  
 add variable name field validation
 
 ### v1.03
