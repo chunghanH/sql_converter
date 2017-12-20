@@ -10,7 +10,7 @@ It will be more convenient for making query sentence.
 
 ### Development Environment 
 Windows7  
-NetBean  7.4    
+NetBean  7.4  
 JDK Java 1.7   
 
 # Referrence
